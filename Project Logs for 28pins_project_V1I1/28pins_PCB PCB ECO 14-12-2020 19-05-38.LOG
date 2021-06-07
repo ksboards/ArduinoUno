@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=16U2_16MHz_XTAL2 Pin=Y1-1
+Added Pin To Net: NetName=16U2_16MHz_XTAL1 Pin=Y1-2
+Added Pin To Net: NetName=328P_16MHz_XTAL1 Pin=Y2-1
+Added Pin To Net: NetName=328P_16MHz_XTAL2 Pin=Y2-2
